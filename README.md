@@ -1,6 +1,6 @@
-Hi 👋 I'm Sahitya Chaddha
+# Hi 👋 I'm Sahitya Chaddha
 
-🎓 Computer Science Engineering Student at Ramaiah Institute of Technology, Bengaluru
+🎓 Computer Science Engineering Student at Ramaiah Institute of Technology, Bengaluru 
 💻 Passionate about Web Development with a strong interest in Backend Development
 🚀 Currently learning and building full-stack applications
 
