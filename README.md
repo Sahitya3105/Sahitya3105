@@ -21,8 +21,8 @@
 * **Fixed a simulation rendering bug** where balls spawned off-screen in `BouncingBall`, `BallAcceleration`, and `Test` simulations.
 * Identified a **coordinate initialization race condition** affecting `CANVAS_HEIGHT` during simulation setup.
 * Implemented fixes across multiple files to ensure correct canvas height initialization and proper body spawning.
-* 🧩 **Pull Request:** https://github.com/physicshub/physicshub.github.io/pull/301
-* 🐞 **Issue:** https://github.com/physicshub/physicshub.github.io/issues/194
+*  **Pull Request:** https://github.com/physicshub/physicshub.github.io/pull/301
+*  **Issue:** https://github.com/physicshub/physicshub.github.io/issues/194
 
 ---
 
@@ -30,8 +30,8 @@
 
 * Contributed to build tooling by adding a workflow to **label original pull requests when manual cherry-picks are performed**.
 * Implemented a **GitHub Actions workflow** to automatically detect cherry-picked PRs and label them appropriately.
-* 🔧 **Pull Request:** https://github.com/WordPress/gutenberg/pull/77892
-* 🐞 **Issue:** https://github.com/WordPress/gutenberg/pull/76579
+*  **Pull Request:** https://github.com/WordPress/gutenberg/pull/77892
+*  **Issue:** https://github.com/WordPress/gutenberg/pull/76579
 
 
 # ⚒️ Languages • Frameworks • Tools
