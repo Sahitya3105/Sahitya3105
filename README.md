@@ -30,7 +30,8 @@
 
 * Contributed to build tooling by adding a workflow to **label original pull requests when manual cherry-picks are performed**.
 * Implemented a **GitHub Actions workflow** to automatically detect cherry-picked PRs and label them appropriately.
-* 🔧 **Pull Request:** https://github.com/WordPress/gutenberg/pull/76579
+* 🔧 **Pull Request:** https://github.com/WordPress/gutenberg/pull/77892
+* 🐞 **Issue:** https://github.com/WordPress/gutenberg/pull/76579
 
 
 # ⚒️ Languages • Frameworks • Tools
