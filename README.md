@@ -9,7 +9,6 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.E.-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-9.60%2F10-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-Bengaluru%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
