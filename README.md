@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sahitya%20Chaddha&fontSize=48&fontColor=c9b6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/Sahitya3105">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Exploring+AI+%2F+ML+and+backend+architecture;Open-Source+Contributor+%40+GSSoC+%26+SSOC;CGPA%3A+9.60%2F10+%40+Ramaiah+Institute+of+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Exploring+AI+%2F+ML+and+backend+architecture;Open-Source+Contributor+%40+GSSoC+%26+SSOC;CGPA%3A+9.53%2F10+%40+Ramaiah+Institute+of+Technology" alt="Typing SVG" />
 </a>
 
 <br/>
